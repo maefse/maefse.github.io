@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maefse.github.io/SZd/sitemap.SZd.gz
